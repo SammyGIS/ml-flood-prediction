@@ -1,0 +1,14 @@
+geemap
+geopandas
+shapely
+requests
+osgeo
+rasterio
+numpy
+sklearn
+fiona
+pyproj
+matplotlib
+pandas
+seaborn
+geocube
