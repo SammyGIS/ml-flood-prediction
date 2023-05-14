@@ -2,7 +2,7 @@
 
 # Flood Modeling using Random Forest
 
-This project is a machine learning model built using different APIs to source data. The goal of this project is to predict the likelihood of flooding in a particular area based on certain environmental factors such as precipitation, temperature, humidity, and soil moisture.
+This project is a machine learning model built using different APIs to source data. The goal of this project is to predict the likelihood of flooding in a particular area based on certain topographial and environmental factors such as landuse, slope and elevation.
 
 ## Project Outlines
 
