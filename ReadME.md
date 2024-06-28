@@ -1,7 +1,5 @@
 
-
 # Flood Modeling using Random Forest
-
 This project is a machine learning model built using different APIs to source data. The goal of this project is to predict the likelihood of flooding in a particular area based on certain topographial and environmental factors such as landuse, slope and elevation.
 
 ## Project Outlines
@@ -51,9 +49,8 @@ pip install -r requirements.txt
 
 3. Open Jupyter notebook or any other suitable IDE and run the notebook `floood_prediction.ipynb`
 
-## Built With
-
-* [Python](https://www.python.org/) - Programming language used
+## Depencies
+* [Python 3x](https://www.python.org/) - Programming language used
 * [Pandas](https://pandas.pydata.org/) - Data manipulation library
 * [Scikit-learn](https://scikit-learn.org/stable/) - Machine learning library
 * [Geopandas]
